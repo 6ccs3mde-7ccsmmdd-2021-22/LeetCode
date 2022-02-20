@@ -18,3 +18,13 @@ The following activities are only to help you be aware of how Git works.
 > 8. Merge local branch to main [This would be a commit - should be done automatically when merging]
 > 9. Push new changes to main
 > 10. Done :grinning:
+
+
+Look at the screenshot below to get an idea
+![image](https://user-images.githubusercontent.com/63448690/154867480-6caefef5-7b87-49b4-884a-8da7f5cf3ac5.png)
+
+As you can see I have created a new branch, did some work, whilst main was being updated. I then merged my branch into main. 
+The main advanatge of this is that you are independtely working on your local branch with affecting the main branch. Once you
+know that everything works with your branch you can merge into Master. But you will have to make sure you pull all the changes
+in master first. This will become clear when you start working on your own!! - Don't worry.
+
